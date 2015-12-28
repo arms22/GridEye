@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For GridEye
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+GridEye	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+sleep	KEYWORD2
+wakeUp	KEYWORD2
+standBy60	KEYWORD2
+standBy10	KEYWORD2
+flagReset	KEYWORD2
+initialReset	KEYWORD2
+setFramerate	KEYWORD2
+setMovingAverageMode	KEYWORD2
+setInterruptLevel	KEYWORD2
+status	KEYWORD2
+thermistorTemp	KEYWORD2
+pixelOut	KEYWORD2
+pixelOutRaw	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+GridEye_DeviceAddress_0	LITERAL1
+GridEye_DeviceAddress_1	LITERAL1
